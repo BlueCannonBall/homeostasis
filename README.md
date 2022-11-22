@@ -14,7 +14,7 @@ In Gestation the feedback loop goes as follows:
 - the Uterus has strech receptors which are triggered
 - receptors communicate to the Brain to release Oxytocin
 - Oxytocin causes muscle contractions
-^^^^ THIS PROCESS KEEPS REPEATING AND AMPLIFYING UNTIL ^^^^
+- process repeats and is amplified
 - baby escapes through Vagina
 
 In a negative feedback loop, a disturbance in homeostasis is dealt with by activating a mechanism which will mitigate it. The initial disturbance then stops, and the mechanism is stoppped thereafter.
